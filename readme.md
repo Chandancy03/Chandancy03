@@ -1,17 +1,17 @@
 Hi 👋 My name is chandan yadav
 =====================
 
-Python Programmer and Ethical Hacker
+Programmer 
 ------------------------------------
 
-👋 Hi, I'm Avek 👀 I’m interested in Black Hat 🌱 I’m currently learning Python - JavaScript and Php 📫 People Hate When You Success 😈 
+👋 Hi, I'm chandan 👀 I’m interested in Black Hat 🌱 I’m currently learning java - JavaScript and Php 📫 People Hate When You Success 😈 
 
 * 🌍  I'm based in Mumbai,Maharashtra
-* 🖥️  See my portfolio at [Website](https://codeax1avek.github.io/portfolio/)
-* ✉️  You can contact me at [Mail](mailto:intcrypt612@proton.me)
-* 🚀  I'm currently working on [E-commerce site](https://codeax1avek.github.io/E-commerce)
+* 🖥️  See my portfolio at [Website](https:GitHub.com/Chandancy03 
+* ✉️  You can contact me at [Mail]
+* 🚀  I'm currently working on [E-commerce site]
 * 🧠  I'm learning Database Management
-* 🤝  I'm open to collaborating on Python Scripting
+* 🤝  I'm open to collaborating on java Scripting
 * ⚡  working on youtube video
 
 ### Skills
